@@ -12,5 +12,3 @@ $Script:JiraSessionManager = New-Object ThomyKay.Jira.JiraSessionManager
 
 . $psScriptRoot\Get-JiraIssue.ps1
 . $psScriptRoot\New-JiraIssue.ps1
-
-. $psScriptRoot\Invoke-.ps1
